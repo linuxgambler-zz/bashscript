@@ -1,9 +1,12 @@
 #!/bin/bash
 
-#Author  : Sagar Malve
-#Purpose : Email Validation Script
-#Date    : Monday 18 July 2016 03:47:22 PM IST
-
+#Title		: email.sh
+#Author  	: Sagar Malve
+#Purpose 	: This script is design to validate user Email ID
+#Date    	: Monday 18 July 2016 03:47:22 PM IST
+#Version	: 0.1
+#BASH_VERSION   : Tested on GNU BASH version 4.3.11
+#OS Specs 	: Ubunt 14.04 LTS
 
 read -p "Enter Email ID :" email
 
