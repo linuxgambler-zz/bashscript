@@ -2,7 +2,7 @@
 
 ##############################################################################################################
 #													     #
-#		Title		:	sysreport.sh							     #	
+#		Title		:	fizzbuzz.sh							     #	
 #		Author		: 	Sagar Malve							     #
 #		Purpose 	: 	If number is divisible by 3 print "Fizz" instead of the number and   #
 #					for the multiples of 5 print "Buzz" For numbers which are            #
