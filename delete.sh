@@ -11,7 +11,7 @@ test=$(ls * | sort -V | head -1)
 
 echo "Do you want to delete $test file"
 
-read -p "Are you sure? " 
+read -p "Are you sure? [Usage: Y/y] " 
 
 	if [[ $REPLY =~ ^[Yy]$ ]]
 	then
