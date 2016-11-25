@@ -89,8 +89,6 @@
        esac
 
 
-echo "Generate Rule"
-read rule_gen
 echo "Defined Rule is \n"
 if [ $protocol == "NULL" ]
  then
